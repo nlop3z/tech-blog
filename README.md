@@ -7,15 +7,19 @@ The purpose of this application is to allow developers to publish their blog pos
 * JavaScript
 * Sequelize
 * Heroku
-* Handlebards.js
+* express-handlebars
 * MySQL2
 * Express.js
+* bcrypt
+* dotenv
+* connect-session-sequelize
+* express-session
 
 ## URL GitHub repository
 https://github.com/nlop3z/tech-blog
 
-## URL Video:
-
+## URL Heroku:
+https://nelly-tech-blog.herokuapp.com/
 
 ## Sreenshot of the Tech Blog application
 
