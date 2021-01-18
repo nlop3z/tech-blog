@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    padding: 5px
   }
 
   body {
@@ -9,4 +10,15 @@
       font-size: 22px;
       background-color: lightgray;
 
+  }
+
+  main {
+    margin: 15px auto;
+    width: 90%;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+      margin: auto;
+      font-weight: 550;
+      color: darkblue;
   }
